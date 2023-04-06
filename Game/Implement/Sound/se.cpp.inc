@@ -1,0 +1,1 @@
+{ DECLARE_STRING "sfx_002_rdy" FILE_EXT, 1.00 },
